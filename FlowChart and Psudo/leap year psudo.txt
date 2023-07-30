@@ -1,0 +1,9 @@
+
+Start
+Input Year
+If(Year%4 == 0):
+    Output Year is prime
+Else:
+    Output Year is leap
+
+Exit

@@ -1,0 +1,12 @@
+
+Start
+Sum = 0
+While(True):
+    Input Number
+    If(Number != 'x' and Number.isdigit()):
+        Sum = Sum + Number
+    Else:
+        Break
+
+Output Sum
+Exit

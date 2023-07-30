@@ -1,0 +1,22 @@
+
+Start
+Input Number 1
+Input Number 2
+Count = 0
+Increment = 1
+HCF = 1
+If(Number 1 < Number 2):
+    Count = Number 1
+Else:
+    Count = Number 2
+While(Increment <= C):
+    If(Number 1 % Increment == 0 and Number 2 % Increment ==0):
+        HCF = Increment
+        Increment = Increment + 1
+    Else:
+        Increment = Increment + 1
+
+LCM = (Number 1 * Number 2) / HCF
+Output HCF
+Output LCM
+Exit

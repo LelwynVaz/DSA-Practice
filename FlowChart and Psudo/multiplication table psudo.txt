@@ -1,0 +1,10 @@
+
+Start
+Input Number
+Count = 1
+Multiplication = 0
+While(Count <= 10):
+    Multiplication = Number * Count
+    Output Number X Count = Multiplication
+
+Exit
